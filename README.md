@@ -53,7 +53,7 @@ https://github.com/user-attachments/assets/d6b24f23-b15a-459f-bb3e-8bec07a531ef
 1. Clone o repositório:
 ```bash
 # Clone o repositório
-git clone https://github.com/SamuelLago/meus-filmes
+git clone https://github.com/IgorTakagui/lista_compras
 
 # Acesse a pasta
 cd meus-filmes
